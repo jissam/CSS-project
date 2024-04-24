@@ -1,0 +1,76 @@
+
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #dddddd;
+    
+    
+  }
+
+  nav a {
+    display: inline;
+    padding: 8px;
+    font-family: 'roboto';
+    font-size: 24px;
+    
+  }
+
+  h1 {
+
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+    color: #d90a0a;
+     
+  }
+
+  h3 {
+
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif
+    font-weight: bold;
+    text-align: center;
+     
+  }
+
+  .home {
+
+    background-color: #dddddd;
+    
+  }
+
+  img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+  }
+
+  #about {
+
+    background-color: #b3b971;
+    
+  }
+
+  #Work {
+
+    background-color: #cd7474;
+    
+  }
+
+  #Resume {
+
+    background-color: #9683c9;
+    
+  }
+
+  #Contact {
+
+    background-color: #57c151;
+    
+  }
